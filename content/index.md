@@ -1,5 +1,5 @@
 ---
-title: Deep Read
+title: DeepRead
 ---
 
 # 网站介绍
@@ -27,4 +27,5 @@ title: Deep Read
 
 ## 四大名著
 [[红楼梦/红楼梦-宏观蓝图]]
+
 [[三国演义/三国演义-宏观蓝图]]
