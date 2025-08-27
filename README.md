@@ -1,71 +1,78 @@
-# 📚 DeepRead
+# 📚 DeepRead - AI 驱动的智能书籍知识图谱
 
-<p align="center">
-  <strong>用 AI 重塑阅读体验，将任何书籍转化为可交互的知识图谱。</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="[[DeepRead]](https://deepread.aizhi.site/)">访问 DeepRead 网站</a>
-</p>
+
+**🔥 用 AI 重塑阅读体验，将任何书籍转化为可交互的知识图谱 🔥**
+
+[![访问网站](https://img.shields.io/badge/🌐_访问-DeepRead_网站-4CAF50?style=for-the-badge)](https://deepread.aizhi.site/)
+[![制作教程](https://img.shields.io/badge/📖_制作教程-知识图谱制作指南-FF9800?style=for-the-badge&logo=gitbook&logoColor=white)](https://deepread.aizhi.site/AI驱动的书籍知识图谱制作完整指南)
+[![工具库](https://img.shields.io/badge/🛠️_工具库-DeepReadTools-9C27B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liujuntao123/DeepReadTools)
+
+
+</div>
 
 ---
 
-## 🚀 项目愿景 (Vision)
+## 🎯 项目愿景
 
-传统的线性阅读让我们难以在脑中建立完整的知识体系。我们常常在细节中迷失，忘记了章节与章节、概念与概念之间的联系。
+> 📖 **打破线性阅读的局限，构建立体化知识体系**
 
-**DeepRead** 致力于通过人工智能彻底改变这一现状。我们相信，最好的阅读方式是将书籍视为一个 interconnected（相互关联）的知识网络，而不是一串孤立的页面。通过将整本书喂给大语言模型，我们能解锁其内在结构，并以一个动态、可探索的 Wiki 知识库形式呈现给读者。
+传统的线性阅读方式让我们容易在信息的海洋中迷失方向：
+- 📄 **碎片化认知**：难以建立完整的知识架构
+- 🔗 **关联缺失**：概念之间的内在联系被割裂
+- 🧠 **记忆负担**：大量细节信息难以有效整理
 
-## ✨ 核心特性 (Features)
+**DeepRead** 通过 AI 技术彻底革新阅读体验：
+- 🌐 将书籍转化为**相互关联的知识网络**
+- 🎨 以**可视化图谱**的形式呈现内容结构
+- 🔍 支持**多维度探索**和**深度挖掘**
 
-- **🤖 AI 驱动的知识提取**：自动分析全书内容，识别核心概念、关键人物、重要事件及其相互关系。
-- **🌐 全景知识图谱**：生成 Wiki 形式的知识库，让你轻松鸟瞰全书的宏观结构。
-- **🔗 强大的双向链接**：借助 Obsidian 的特性，在概念、章节和细节之间自由跳转，构建你的知识网络。
-- **💻 易于访问的网站**：通过 Quartz 将知识库发布为精美的静态网站，随时随地在任何设备上阅读和探索。
+## ✨ 核心特性
 
-## 💡 工作流程 (How It Works)
+### 🤖 智能解析引擎
+- **深度理解**：基于大语言模型的全书内容分析
+- **智能提取**：自动识别人物、事件、概念、地点等关键要素
+- **关系挖掘**：发现元素间的复杂关联和依赖关系
 
-1.  **输入 (Input)**：将一本完整的书籍（如 `.txt` 或 `.epub` 格式）提供给处理脚本。转换成markdown格式。然后进行文本的清洗。
-2.  **处理 (Processing)**：利用大语言模型对整本书进行分析和结构化，生成一系列 Markdown 文件。
-3.  **组织 (Organization)**：这些 Markdown 文件被精心组织起来，利用 Obsidian 的语法创建双向链接。
-4.  **发布 (Publishing)**：使用 [Quartz](https://quartz.jzhao.xyz/) 将 `content` 目录下的所有笔记渲染成一个公开的静态网站。
+### 🌐 知识图谱生成
+- **立体结构**：多层次、多维度的知识组织方式
+- **动态链接**：双向链接系统，支持知识点间的快速跳转
+- **主题聚类**：按主题自动分类和标签化
 
-## 🛠️ 仓库结构 (Repository Structure)
+## 📚 制作教程
 
-这个仓库是 DeepRead 知识库的发布平台。
+如何制作自己的wiki知识库，请参考[AI驱动的书籍知识图谱制作完整指南](https://deepread.aizhi.site/AI驱动的书籍知识图谱制作完整指南)
 
-```
-.
-├── content/      # 存放由 AI 生成的、关于书籍的 Markdown 笔记源文件
-├── ...           # 其他 Quartz 配置文件
-└── README.md     # 你正在阅读的文件
-```
 
-## 快速开始 (Getting Started)
+## 👀 体验在线网站
 
-**对于读者：**
+<div align="center">
 
-只需访问我们的在线网站即可开始探索：
-- **[书籍 A 的知识库链接]**
-- **[书籍 B 的知识库链接]**
+[![立即体验](https://img.shields.io/badge/🌟_立即体验-DeepRead_知识图谱-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://deepread.aizhi.site/)
 
-**对于开发者/贡献者：**
+**📚 wiki知识库列表**
 
-如果你想在本地运行或贡献内容，请遵循以下步骤：
+| 📖 书籍名称 | 🔗 在线链接 | 📊 节点数 | ✨ 特色 |
+|------------|------------|----------|-------|
+| 《三国演义》 | [🌐 探索](https://deepread.aizhi.site/三国演义/) | 93 | 人物关系图谱 |
+| 《红楼梦》 | [🌐 探索](https://deepread.aizhi.site/红楼梦/) | 72 | 家族脉络分析 |
+| 《西游记》 | [🌐 探索](https://deepread.aizhi.site/西游记/) | 191 | 取经路线图 |
+| 《水浒传》 | [🌐 探索](https://deepread.aizhi.site/水浒传/) | 94 | 英雄谱系统 |
+| 《百年孤独》 | [🌐 探索](https://deepread.aizhi.site/百年孤独/) | 47 | 魔幻现实主义 |
+| 《中国历代政治得失》 | [🌐 探索](https://deepread.aizhi.site/中国历代政治得失/) | 67 | 政治制度分析 |
+| 《做哲学》 | [🌐 探索](https://deepread.aizhi.site/做哲学/) | 163 | 哲学概念体系 |
 
-1.  **克隆仓库**
-    ```bash
-    git clone https://github.com/your-username/DeepRead.git
-    cd DeepRead
-    ```
-2.  **安装 Quartz**
-    (请参考 [Quartz 官方文档](https://quartz.jzhao.xyz/) 进行安装和配置)
+</div>
 
-3.  **本地预览**
-    ```bash
-    npx quartz build --serve
-    ```
+## 📄 许可证
 
-## 未来的路 (Roadmap)
+本项目采用 [MIT 许可证](LICENSE) 开源。
 
-- [ ] 录入更多书籍
+---
+
+<div align="center">
+
+**🌟 如果这个项目对您有帮助，请给我们一个 Star！ 🌟**
+
+</div>
