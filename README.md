@@ -55,13 +55,16 @@
 
 | 📖 书籍名称 | 🔗 在线链接 | 📊 节点数 | ✨ 特色 |
 |------------|------------|----------|-------|
-| 《三国演义》 | [🌐 探索](https://deepread.aizhi.site/三国演义/) | 93 | 人物关系图谱 |
-| 《红楼梦》 | [🌐 探索](https://deepread.aizhi.site/红楼梦/) | 72 | 家族脉络分析 |
-| 《西游记》 | [🌐 探索](https://deepread.aizhi.site/西游记/) | 191 | 取经路线图 |
-| 《水浒传》 | [🌐 探索](https://deepread.aizhi.site/水浒传/) | 94 | 英雄谱系统 |
-| 《百年孤独》 | [🌐 探索](https://deepread.aizhi.site/百年孤独/) | 47 | 魔幻现实主义 |
-| 《中国历代政治得失》 | [🌐 探索](https://deepread.aizhi.site/中国历代政治得失/) | 67 | 政治制度分析 |
-| 《做哲学》 | [🌐 探索](https://deepread.aizhi.site/做哲学/) | 163 | 哲学概念体系 |
+| 《三国演义》 | [🌐 探索](https://deepread.aizhi.site/三国演义/) | 94 | 人物关系图谱 |
+| 《红楼梦》 | [🌐 探索](https://deepread.aizhi.site/红楼梦/) | 73 | 家族脉络分析 |
+| 《西游记》 | [🌐 探索](https://deepread.aizhi.site/西游记/) | 192 | 取经路线图 |
+| 《水浒传》 | [🌐 探索](https://deepread.aizhi.site/水浒传/) | 95 | 英雄谱系统 |
+| 《百年孤独》 | [🌐 探索](https://deepread.aizhi.site/百年孤独/) | 48 | 魔幻现实主义 |
+| 《中国历代政治得失》 | [🌐 探索](https://deepread.aizhi.site/中国历代政治得失/) | 68 | 政治制度分析 |
+| 《做哲学》 | [🌐 探索](https://deepread.aizhi.site/做哲学/) | 164 | 哲学概念体系 |
+| 《哥德尔艾舍尔巴赫》 | [🌐 探索](https://deepread.aizhi.site/哥德尔艾舍尔巴赫集异璧之大成/) | 60 | 认知科学经典 |
+| 《我们赖以生存的隐喻》 | [🌐 探索](https://deepread.aizhi.site/我们赖以生存的隐喻/) | 75 | 语言认知科学 |
+| 《资本论第一册》 | [🌐 探索](https://deepread.aizhi.site/资本论第一册/) | 62 | 政治经济学 |
 
 </div>
 
