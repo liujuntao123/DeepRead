@@ -64,6 +64,7 @@
 | 《做哲学》 | [🌐 探索](https://deepread.aizhi.site/做哲学/) | 164 | 哲学概念体系 |
 | 《哥德尔艾舍尔巴赫》 | [🌐 探索](https://deepread.aizhi.site/哥德尔艾舍尔巴赫集异璧之大成/) | 60 | 认知科学经典 |
 | 《我们赖以生存的隐喻》 | [🌐 探索](https://deepread.aizhi.site/我们赖以生存的隐喻/) | 75 | 语言认知科学 |
+| 《乌合之众-群体心理学》 | [🌐 探索](https://deepread.aizhi.site/乌合之众-群体心理学/) | 44 | 群体心理分析 |
 | 《资本论第一册》 | [🌐 探索](https://deepread.aizhi.site/资本论第一册/) | 62 | 政治经济学 |
 | 《资本论第二册》 | [🌐 探索](https://deepread.aizhi.site/资本论第二册/) | 55 | 流通过程分析 |
 | 《资本论第三册》 | [🌐 探索](https://deepread.aizhi.site/资本论第三册/) | 51 | 总过程分析 |
