@@ -19,5 +19,19 @@ title: DeepRead
 | 《资本论第三册》 | [[资本论第三册/资本论第三册-宏观蓝图]] | 51 | 总过程分析 |
 
 
+---
 
-[[网站介绍]]
+<div class="action-buttons">
+  <a href="网站介绍" class="action-button primary">
+    <span class="icon">📝</span>
+    网站介绍
+  </a>
+  <a href="https://github.com/liujuntao123/DeepRead" class="action-button secondary" target="_blank">
+    <span class="icon">🐱</span>
+    GitHub 源码
+  </a>
+  <a href="https://deepread.aizhi.site/AI驱动的书籍知识图谱制作完整指南" class="action-button success" target="_blank">
+    <span class="icon">📖</span>
+    制作教程
+  </a>
+</div>

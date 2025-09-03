@@ -1,3 +1,89 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* 美观的按钮样式 */
+.action-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.action-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, var(--secondary) 0%, var(--tertiary) 100%);
+  color: var(--light);
+  text-decoration: none !important;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border: 2px solid transparent;
+  position: relative;
+  overflow: hidden;
+  min-width: 140px;
+  justify-content: center;
+}
+
+.action-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+  color: var(--light) !important;
+}
+
+.action-button:active {
+  transform: translateY(0);
+}
+
+/* 不同类型的按钮颜色 */
+.action-button.primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.action-button.secondary {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+
+.action-button.success {
+  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+}
+
+.action-button.warning {
+  background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+}
+
+/* 图标样式 */
+.action-button .icon {
+  font-size: 1.1em;
+  display: inline-block;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .action-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .action-button {
+    width: 100%;
+    max-width: 280px;
+  }
+}
+
+/* 暗色主题适配 */
+:root[saved-theme="dark"] {
+  .action-button {
+    box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+  }
+  
+  .action-button:hover {
+    box-shadow: 0 8px 25px rgba(255, 255, 255, 0.15);
+  }
+}
