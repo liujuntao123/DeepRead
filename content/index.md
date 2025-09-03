@@ -30,8 +30,55 @@ title: DeepRead
     <span class="icon">🐱</span>
     GitHub 源码
   </a>
-  <a href="AI驱动的书籍知识图谱制作完整指南" class="action-button success" target="_blank">
+  <a href="AI驱动的书籍知识图谱制作完整指南" class="action-button success">
     <span class="icon">📖</span>
     制作教程
   </a>
+  <button onclick="openFeedbackModal()" class="action-button feedback">
+    <span class="icon">💬</span>
+    建议和反馈
+  </button>
 </div>
+
+<!-- 反馈弹窗 -->
+<div id="feedbackModal" class="modal">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h3>建议和反馈</h3>
+    </div>
+    <div class="modal-body">
+      <p class="feedback-text">扫描下方二维码，加入交流群或提供宝贵建议</p>
+      <img src="/static/feedback-qr.png" alt="反馈二维码" class="qr-code" />
+      <p class="feedback-text">感谢您的支持和建议！</p>
+    </div>
+    <div class="modal-footer">
+      <button onclick="closeFeedbackModal()" class="close-btn">关闭</button>
+    </div>
+  </div>
+</div>
+
+<script>
+function openFeedbackModal() {
+  document.getElementById('feedbackModal').classList.add('show');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeFeedbackModal() {
+  document.getElementById('feedbackModal').classList.remove('show');
+  document.body.style.overflow = 'auto';
+}
+
+// 点击弹窗外部区域关闭弹窗
+document.getElementById('feedbackModal').addEventListener('click', function(e) {
+  if (e.target === this) {
+    closeFeedbackModal();
+  }
+});
+
+// ESC键关闭弹窗
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') {
+    closeFeedbackModal();
+  }
+});
+</script>
