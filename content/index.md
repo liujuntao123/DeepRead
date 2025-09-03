@@ -2,7 +2,7 @@
 title: DeepRead
 ---
 
-| 📖 书籍名称 | 🔗 在线链接 | 📊 节点数 | ✨ 特色 |
+| 📖 书籍名称 | 🔗 宏观蓝图 | 📊 节点数 | ✨ 特色 |
 |------------|------------|----------|-------|
 | 《三国演义》 | [[三国演义/三国演义-宏观蓝图]] | 94 | 人物关系图谱 |
 | 《红楼梦》 | [[红楼梦/红楼梦-宏观蓝图]] | 73 | 家族脉络分析 |
@@ -30,7 +30,7 @@ title: DeepRead
     <span class="icon">🐱</span>
     GitHub 源码
   </a>
-  <a href="https://deepread.aizhi.site/AI驱动的书籍知识图谱制作完整指南" class="action-button success" target="_blank">
+  <a href="AI驱动的书籍知识图谱制作完整指南" class="action-button success" target="_blank">
     <span class="icon">📖</span>
     制作教程
   </a>
