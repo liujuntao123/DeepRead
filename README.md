@@ -69,6 +69,9 @@
 | 《资本论第一册》 | [🌐 探索](https://deepread.aizhi.site/资本论第一册/) | 62 | 政治经济学 |
 | 《资本论第二册》 | [🌐 探索](https://deepread.aizhi.site/资本论第二册/) | 55 | 流通过程分析 |
 | 《资本论第三册》 | [🌐 探索](https://deepread.aizhi.site/资本论第三册/) | 51 | 总过程分析 |
+| 《动物农场》 | [🌐 探索](https://deepread.aizhi.site/动物农场/) | 35 | 政治寓言经典 |
+| 《小镇喧嚣》 | [🌐 探索](https://deepread.aizhi.site/小镇喧嚣-一个乡镇政治运作的演绎与阐释/) | 58 | 乡镇政治研究 |
+| 《孙子兵法》 | [🌐 探索](https://deepread.aizhi.site/孙子兵法/) | 36 | 孙子兵法解析 |
 
 </div>
 
